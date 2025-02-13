@@ -1,1 +1,1 @@
-text to file2
+Version 1
